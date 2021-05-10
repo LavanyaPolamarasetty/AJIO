@@ -1,0 +1,53 @@
+.card-view{
+	display : flex;
+	flex-direction: row;
+	/*justify-content: center;*/
+	flex-wrap:wrap;
+	max-width: 100%;
+
+}
+
+.card9{
+	width: 30%;
+	height: 60%
+}
+.card8{
+	width: 70%;
+	height: 60%;
+}
+
+.card1,.card2,.card3,.card4,.card5,.card6{
+	/*border :2px solid #ddd;*/
+	padding :0.5%;
+	/*margin:0%;*/
+	width: 32%;
+	/*border-radius: 5%;*/
+	text-align: center;
+}
+
+img{
+	width: 98%;
+	/*box-shadow: 3px 4px 5px black;*/
+}
+
+h5{
+	color: #b19975;
+}
+
+h4{
+	color: black;
+
+}
+
+span{
+	color:#b19975;
+}
+s{
+	color:  gray;
+	font-size: 1;
+}
+
+h1{
+ text-align: center;
+ background-color: ;
+}
